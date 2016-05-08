@@ -1,6 +1,6 @@
 import java.lang.Thread;
 import java.util.Random;
-
+//This is another comment 
 class RollDieThread implements Runnable{
 	public int threadNo;
 	public RollDieThread(int pThreadNo){
